@@ -30,6 +30,12 @@ The analysis compares actual expenditure with the original estimate and should n
 
 [View / Download the Excel Analysis](Mahadi_Alam_MTO_Financial_Analysis.xlsx)
 
+## Data Sources
+
+- [Government of Ontario — Ministry of Transportation 2024–25 Expenditure Estimates](https://www.ontario.ca/page/expenditure-estimates-ministry-transportation-2024-25)
+- [Government of Ontario — Ministry of Transportation 2026–27 Expenditure Estimates](https://www.ontario.ca/page/expenditure-estimates-ministry-transportation-2026-2027)
+- [Public Accounts of Ontario 2024–25 — Ministry Statements and Schedules](https://www.ontario.ca/page/public-accounts-2024-25-ministry-statements-and-schedules)
+
 ## Scope
 This analysis covers four selected Ministry of Transportation operating programs and does not represent a complete analysis of total ministry expenditure.
 
